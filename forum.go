@@ -1,3 +1,9 @@
+/*
+Forum library for web applications
+Copyright (c) 2016 aerth
+import github.com/aerth/fforum
+MIT License
+*/
 package forum
 
 import (
